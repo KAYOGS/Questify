@@ -4,6 +4,7 @@ import 'package:app_questify/login/login.dart';
 import 'package:app_questify/sing_up/sing_up.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:formz/formz.dart';
+import 'package:app_questify/sing_up/view/sing_up_page.dart';
 
 class LoginForm extends StatelessWidget {
   const LoginForm({super.key});
